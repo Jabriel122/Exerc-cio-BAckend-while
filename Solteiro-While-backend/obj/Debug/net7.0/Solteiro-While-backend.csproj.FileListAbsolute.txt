@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\bin\Debug\net7.0\Solteiro-While-backend.exe
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\bin\Debug\net7.0\Solteiro-While-backend.deps.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\bin\Debug\net7.0\Solteiro-While-backend.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\bin\Debug\net7.0\Solteiro-While-backend.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\bin\Debug\net7.0\Solteiro-While-backend.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\refint\Solteiro-While-backend.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\Solteiro-While-backend.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-While\Solteiro-While-backend\obj\Debug\net7.0\ref\Solteiro-While-backend.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Solteiro-While-backend/1.0.0": {
+        "runtime": {
+          "Solteiro-While-backend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solteiro-While-backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
